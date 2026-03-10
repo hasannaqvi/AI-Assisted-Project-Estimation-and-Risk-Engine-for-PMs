@@ -1,0 +1,7 @@
+You need to have following python libs installed:
+
+streamlit
+numpy
+pandas
+matplotlib
+z3-solver
