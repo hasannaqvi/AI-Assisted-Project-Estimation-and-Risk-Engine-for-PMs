@@ -1,7 +1,5 @@
-You need to have following python libs installed:
-
-streamlit
+streamlit==1.32.2
 numpy
 pandas
 matplotlib
-z3-solver
+z3-solver==4.12.2.0
